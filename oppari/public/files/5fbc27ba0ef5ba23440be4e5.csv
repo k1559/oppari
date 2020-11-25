@@ -1,0 +1,5 @@
+"_id","hours","minutes","textarea","date","userid","useremail","__v"
+"5fbc28090ef5ba23440be4e6",7,30,"työpäivä","2020-11-23T00:00:00.000Z","5fbc27ba0ef5ba23440be4e5","k1559@student.jamk.fi",0
+"5fbc281d0ef5ba23440be4e7",0,55,"ylitöitä","2020-11-23T00:00:00.000Z","5fbc27ba0ef5ba23440be4e5","k1559@student.jamk.fi",0
+"5fbc282d0ef5ba23440be4e8",7,30,"perus työpäivä","2020-11-20T00:00:00.000Z","5fbc27ba0ef5ba23440be4e5","k1559@student.jamk.fi",0
+"5fbc28360ef5ba23440be4e9",10,0,"kisamatka","2020-11-14T00:00:00.000Z","5fbc27ba0ef5ba23440be4e5","k1559@student.jamk.fi",0

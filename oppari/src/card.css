@@ -1,0 +1,68 @@
+.card {
+    background-color: #f6f6f8;
+    border: 1px ridge #c60021;
+    color: #383737;
+    border-radius: 0.5rem;
+    padding-bottom: 20px;
+    margin-top: 20px !important;
+  }
+  .card label {
+    margin-top: 20px;
+    font-weight: bolder;
+    font-size: 20px;
+  }
+  .cardh4 {
+    margin: 10px 0px 10px 0px;
+    font-size: 1.3rem;
+  }
+  .login-card h3 {
+    margin-top: 10px !important;
+  }
+
+  .tarkastelecard {
+    background-color: #f6f6f8;
+    border: 1px ridge #c60021;
+    color: #383737;
+    border-radius: 0.5rem;
+    margin-top: 20px !important;
+  }
+  .tarkastele {
+    padding: 0 !important;
+  }
+
+  .register-card {
+    margin-bottom: 50px;
+  }
+  
+  .hidden {
+    visibility: hidden;
+  }
+
+  .homeform {
+      width: 300px;
+  }
+
+  .adminselect {
+    margin-top: 20px;
+  }
+  
+ 
+
+  @media (max-width: 623px) { 
+    .homeform {
+        width: 200px;
+    }
+  
+    .delmarks {
+      padding-bottom: 100px;
+    }
+
+    .admin {
+      padding: 0;
+    }
+    .adminselect {
+      min-height: 50px;
+      padding: 10px;
+      margin: 10px;
+    }
+   }

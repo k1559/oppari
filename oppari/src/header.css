@@ -1,0 +1,75 @@
+.text-red {
+    color: #c60021;
+  }
+  .headertext {
+    margin: 0;
+  }
+  
+  .hv-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .table td {
+    padding: 0.1rem;
+  }
+  
+  .valikko {
+    padding: 10px;
+  }
+  .valikko:hover {
+    color: #dd8e9b;
+    cursor: pointer;
+  }
+  
+  .valikonotsikko {
+    color: black;
+    padding: 10px;
+  }
+  
+  .valikkobutton {
+    margin: 10px;
+  }
+  .valikkobutton:hover {
+    background-color: #d35469;
+  }
+
+  .headerlogo {
+    width: 100%;
+    height: 50px;
+    background-image: url('logo2.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-clip: initial;
+  }
+  
+  .headerlogo:hover {
+    opacity: 0.6;
+    cursor: pointer;
+  }
+
+
+  @media (max-width: 670px) { 
+  
+    .headerlogo {
+      width: 200px;
+
+    }
+
+    .navbar {
+      width: 100vw !important;
+    }
+    .valikko {
+      font-size: 20px;
+      width: 100%;
+    }
+    .valikonotsikko {
+      font-size: 25px;
+    }
+    .valikkolinkit {
+      margin-top: 20px;
+      margin-bottom: 10px;
+    }
+  }
